@@ -1,4 +1,7 @@
 # populartvshows
+# Project: Popular TV Shows
+# Programmer: Brian Nelson
+# Date: 12/4/2020
 
 ## Project setup
 ```
